@@ -1,2 +1,2 @@
 # My-C-projects
-Some description. 
+Some description!
